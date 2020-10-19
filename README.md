@@ -6,3 +6,16 @@
 - Integrado testes unitários e testes de UI (testes básicos).
 - Projeto implementado com View Code (sem interface builder).
 - Estrutura em MVVM + Clean Architecture (mais simples pelas poucas funcionalidades).
+
+# Features v2 - In coming
+- Documentar todo o funcionamento do projeto.
+- Integração com Cocoapods (Alamofire).
+- Tratamento de erro de conexão.
+- Correção de XCTests com falhas.
+- Integração de testes unitários mais completos.
+- Análise de padrão de projeto: casos de uso e repositórios.
+
+# Backlog
+- Melhorias visuais no projeto (analisar uso do flat design).
+- Integrar fastlane (Slather).
+- Testes com Snapshot, KIF e Quick/Nimble.
