@@ -1,4 +1,4 @@
-# Features v1
+# Features v1 - Done
 - Listagem de Repositórios com a linguagem de programação Swift, ordenados por maior número de estrelas
 - Exibição de nome do repositório, quantidade de estrelas, foto e nome do autor.
 - Funcionalidade de Scroll infinito para carregar mais itens (limitado a 10 por página).
