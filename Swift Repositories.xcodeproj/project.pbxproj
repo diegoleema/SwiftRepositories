@@ -24,7 +24,6 @@
 		85F240BD25353C41000E9991 /* IntegerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F240BC25353C41000E9991 /* IntegerExtension.swift */; };
 		85F240C725353F4D000E9991 /* Swift_Repositories_Unit_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F240C625353F4D000E9991 /* Swift_Repositories_Unit_Tests.swift */; };
 		85F240DC2535497D000E9991 /* Swift_Repositories_UI_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F240DB2535497D000E9991 /* Swift_Repositories_UI_Tests.swift */; };
-		85F240E725354B77000E9991 /* XCUIApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F240E625354B77000E9991 /* XCUIApplication.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,7 +67,6 @@
 		85F240D92535497D000E9991 /* Swift Repositories UI Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift Repositories UI Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85F240DB2535497D000E9991 /* Swift_Repositories_UI_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_Repositories_UI_Tests.swift; sourceTree = "<group>"; };
 		85F240DD2535497D000E9991 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		85F240E625354B77000E9991 /* XCUIApplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCUIApplication.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -257,7 +255,6 @@
 			children = (
 				85F240DB2535497D000E9991 /* Swift_Repositories_UI_Tests.swift */,
 				85F240DD2535497D000E9991 /* Info.plist */,
-				85F240E625354B77000E9991 /* XCUIApplication.swift */,
 			);
 			path = "Swift Repositories UI Tests";
 			sourceTree = "<group>";
@@ -420,7 +417,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				85F240DC2535497D000E9991 /* Swift_Repositories_UI_Tests.swift in Sources */,
-				85F240E725354B77000E9991 /* XCUIApplication.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
